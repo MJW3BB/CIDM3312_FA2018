@@ -1,0 +1,16 @@
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities (Assignment 02)\The-BuffTeks-Entities-Assignment-02-\bin\Debug\netcoreapp2.1\BuffTeks Models.deps.json
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities (Assignment 02)\The-BuffTeks-Entities-Assignment-02-\bin\Debug\netcoreapp2.1\BuffTeks Models.runtimeconfig.json
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities (Assignment 02)\The-BuffTeks-Entities-Assignment-02-\bin\Debug\netcoreapp2.1\BuffTeks Models.runtimeconfig.dev.json
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities (Assignment 02)\The-BuffTeks-Entities-Assignment-02-\bin\Debug\netcoreapp2.1\BuffTeks Models.dll
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities (Assignment 02)\The-BuffTeks-Entities-Assignment-02-\bin\Debug\netcoreapp2.1\BuffTeks Models.pdb
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities (Assignment 02)\The-BuffTeks-Entities-Assignment-02-\obj\Debug\netcoreapp2.1\BuffTeks Models.csprojAssemblyReference.cache
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities (Assignment 02)\The-BuffTeks-Entities-Assignment-02-\obj\Debug\netcoreapp2.1\BuffTeks Models.csproj.CoreCompileInputs.cache
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities (Assignment 02)\The-BuffTeks-Entities-Assignment-02-\obj\Debug\netcoreapp2.1\BuffTeks Models.AssemblyInfoInputs.cache
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities (Assignment 02)\The-BuffTeks-Entities-Assignment-02-\obj\Debug\netcoreapp2.1\BuffTeks Models.AssemblyInfo.cs
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities (Assignment 02)\The-BuffTeks-Entities-Assignment-02-\obj\Debug\netcoreapp2.1\BuffTeks Models.dll
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities (Assignment 02)\The-BuffTeks-Entities-Assignment-02-\obj\Debug\netcoreapp2.1\BuffTeks Models.pdb
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities-Assignment 03\The-BuffTeks-Entities-Assignment-02-\obj\Debug\netcoreapp2.1\BuffTeks Models.csprojAssemblyReference.cache
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities-Assignment 03\The-BuffTeks-Entities-Assignment-02-\obj\Debug\netcoreapp2.1\BuffTeks Models.csproj.CoreCompileInputs.cache
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities-Assignment 03\The-BuffTeks-Entities-Assignment-02-\obj\Debug\netcoreapp2.1\BuffTeks Models.AssemblyInfoInputs.cache
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities-Assignment 03\The-BuffTeks-Entities-Assignment-02-\obj\Debug\netcoreapp2.1\BuffTeks Models.AssemblyInfo.cs
+D:\Media\Projects\CIDM-3312 Projects\The Buffteks Entities-Assignment 03\The-BuffTeks-Entities-Assignment-02-\obj\Debug\netcoreapp2.1\BuffTeks Models.pdb
