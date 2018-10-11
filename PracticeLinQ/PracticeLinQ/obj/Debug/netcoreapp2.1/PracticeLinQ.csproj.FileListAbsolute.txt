@@ -1,0 +1,17 @@
+D:\Media\Projects\inClass 10-10\LinQ Final\PracticeLinQ\obj\Debug\netcoreapp2.1\PracticeLinQ.csprojAssemblyReference.cache
+D:\Media\Projects\inClass 10-10\LinQ Final\PracticeLinQ\obj\Debug\netcoreapp2.1\PracticeLinQ.csproj.CoreCompileInputs.cache
+D:\Media\Projects\inClass 10-10\LinQ Final\PracticeLinQ\obj\Debug\netcoreapp2.1\PracticeLinQ.AssemblyInfoInputs.cache
+D:\Media\Projects\inClass 10-10\LinQ Final\PracticeLinQ\obj\Debug\netcoreapp2.1\PracticeLinQ.AssemblyInfo.cs
+D:\Media\Projects\inClass 10-10\LinQ Final\PracticeLinQ\bin\Debug\netcoreapp2.1\PracticeLinQ.deps.json
+D:\Media\Projects\inClass 10-10\LinQ Final\PracticeLinQ\bin\Debug\netcoreapp2.1\PracticeLinQ.runtimeconfig.json
+D:\Media\Projects\inClass 10-10\LinQ Final\PracticeLinQ\bin\Debug\netcoreapp2.1\PracticeLinQ.runtimeconfig.dev.json
+D:\Media\Projects\inClass 10-10\LinQ Final\PracticeLinQ\bin\Debug\netcoreapp2.1\PracticeLinQ.dll
+D:\Media\Projects\inClass 10-10\LinQ Final\PracticeLinQ\bin\Debug\netcoreapp2.1\PracticeLinQ.pdb
+D:\Media\Projects\inClass 10-10\LinQ Final\PracticeLinQ\obj\Debug\netcoreapp2.1\PracticeLinQ.dll
+D:\Media\Projects\inClass 10-10\LinQ Final\PracticeLinQ\obj\Debug\netcoreapp2.1\PracticeLinQ.pdb
+D:\Media\Desktop\PracticeLinQ\PracticeLinQ\obj\Debug\netcoreapp2.1\PracticeLinQ.csprojAssemblyReference.cache
+D:\Media\Desktop\PracticeLinQ\PracticeLinQ\obj\Debug\netcoreapp2.1\PracticeLinQ.csproj.CoreCompileInputs.cache
+D:\Media\Desktop\PracticeLinQ\PracticeLinQ\obj\Debug\netcoreapp2.1\PracticeLinQ.AssemblyInfoInputs.cache
+D:\Media\Desktop\PracticeLinQ\PracticeLinQ\obj\Debug\netcoreapp2.1\PracticeLinQ.AssemblyInfo.cs
+D:\Media\Desktop\PracticeLinQ\PracticeLinQ\obj\Debug\netcoreapp2.1\PracticeLinQ.dll
+D:\Media\Desktop\PracticeLinQ\PracticeLinQ\obj\Debug\netcoreapp2.1\PracticeLinQ.pdb
