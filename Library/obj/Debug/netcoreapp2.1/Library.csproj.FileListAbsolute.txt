@@ -1,0 +1,9 @@
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Library\bin\Debug\netcoreapp2.1\Library.deps.json
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Library\bin\Debug\netcoreapp2.1\Library.dll
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Library\bin\Debug\netcoreapp2.1\Library.pdb
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Library\obj\Debug\netcoreapp2.1\Library.csprojAssemblyReference.cache
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Library\obj\Debug\netcoreapp2.1\Library.csproj.CoreCompileInputs.cache
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfoInputs.cache
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfo.cs
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Library\obj\Debug\netcoreapp2.1\Library.dll
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Library\obj\Debug\netcoreapp2.1\Library.pdb

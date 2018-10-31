@@ -1,0 +1,1 @@
+By creating an Interface I can reference these references and use it as a "Library" of sorts for different items.
