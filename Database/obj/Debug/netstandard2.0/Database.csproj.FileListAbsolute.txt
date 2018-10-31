@@ -1,0 +1,9 @@
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Database\obj\Debug\netstandard2.0\Database.csprojAssemblyReference.cache
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Database\obj\Debug\netstandard2.0\Database.csproj.CoreCompileInputs.cache
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Database\obj\Debug\netstandard2.0\Database.AssemblyInfoInputs.cache
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Database\obj\Debug\netstandard2.0\Database.AssemblyInfo.cs
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Database\bin\Debug\netstandard2.0\Database.deps.json
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Database\bin\Debug\netstandard2.0\Database.dll
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Database\bin\Debug\netstandard2.0\Database.pdb
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Database\obj\Debug\netstandard2.0\Database.dll
+D:\Media\Projects\CIDM-3312 Projects\Assignment05-UnitConverter\RoughDraft02\Database\obj\Debug\netstandard2.0\Database.pdb

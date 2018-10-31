@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Media\\Projects\\CIDM-3312 Projects\\Assignment05-UnitConverter\\RoughDraft02\\Database\\Database.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
