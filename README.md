@@ -1,1 +1,9 @@
-This Repo contains all code related to CIDM3312 FA2018 @ WTAMU
+Assignment Six
+
+Please write a simple ASP.NET MVC Core application that serves as a unit converter.  Please convert between the following unit types:
+
+    Temperatures - Celsius, Fahrenheit, Kelvin
+    Length - Meters, Feet, Yards
+    Mass - Ounce, Pound, Gram, Kilogram
+
+This will consist of a simple controller.  You will use query string parameters to send the units and unit data into the controller to get a web page response (for now, there is NO UI Input)
