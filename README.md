@@ -8,3 +8,5 @@ In-Class Practice HTTP GET with ASP.NET MVC Routes and Controllers
     Create the required parameters for each of the above methods
     Each method should return a string containing a phrase/sentence indicating the operands given and the result of the operation
     From a browser, call each method using the appropriate url route and arguments
+
+Download and copy the MathRoutines.dll file to the root of C:\ in order for everything to work properly.
