@@ -1,0 +1,9 @@
+D:\Media\Projects\Assignments\inClass\RazorPages01\MathRoutines\bin\Debug\netstandard2.0\MathRoutines.deps.json
+D:\Media\Projects\Assignments\inClass\RazorPages01\MathRoutines\bin\Debug\netstandard2.0\MathRoutines.dll
+D:\Media\Projects\Assignments\inClass\RazorPages01\MathRoutines\bin\Debug\netstandard2.0\MathRoutines.pdb
+D:\Media\Projects\Assignments\inClass\RazorPages01\MathRoutines\obj\Debug\netstandard2.0\MathRoutines.csprojAssemblyReference.cache
+D:\Media\Projects\Assignments\inClass\RazorPages01\MathRoutines\obj\Debug\netstandard2.0\MathRoutines.csproj.CoreCompileInputs.cache
+D:\Media\Projects\Assignments\inClass\RazorPages01\MathRoutines\obj\Debug\netstandard2.0\MathRoutines.AssemblyInfoInputs.cache
+D:\Media\Projects\Assignments\inClass\RazorPages01\MathRoutines\obj\Debug\netstandard2.0\MathRoutines.AssemblyInfo.cs
+D:\Media\Projects\Assignments\inClass\RazorPages01\MathRoutines\obj\Debug\netstandard2.0\MathRoutines.dll
+D:\Media\Projects\Assignments\inClass\RazorPages01\MathRoutines\obj\Debug\netstandard2.0\MathRoutines.pdb
