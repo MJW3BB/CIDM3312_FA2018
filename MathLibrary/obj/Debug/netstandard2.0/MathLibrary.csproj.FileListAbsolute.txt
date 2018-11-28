@@ -1,0 +1,9 @@
+D:\Media\Projects\Exams\Midterm Exam 2\Draft01\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.deps.json
+D:\Media\Projects\Exams\Midterm Exam 2\Draft01\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.dll
+D:\Media\Projects\Exams\Midterm Exam 2\Draft01\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.pdb
+D:\Media\Projects\Exams\Midterm Exam 2\Draft01\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csprojAssemblyReference.cache
+D:\Media\Projects\Exams\Midterm Exam 2\Draft01\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csproj.CoreCompileInputs.cache
+D:\Media\Projects\Exams\Midterm Exam 2\Draft01\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfoInputs.cache
+D:\Media\Projects\Exams\Midterm Exam 2\Draft01\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfo.cs
+D:\Media\Projects\Exams\Midterm Exam 2\Draft01\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.dll
+D:\Media\Projects\Exams\Midterm Exam 2\Draft01\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.pdb
